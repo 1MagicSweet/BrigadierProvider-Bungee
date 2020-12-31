@@ -1,0 +1,4 @@
+name: ${project.name}
+author: ${project.organization.name}
+version: ${project.version}
+main: com.magicsweet.BrigadierProviderBungee.Main.Main
